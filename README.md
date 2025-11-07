@@ -1,6 +1,6 @@
 # Car Rental API (RentACar - N-Tier Architecture)
 
-This project is built according to the main capstone for the **"Software Developer Training Camp" (Engin Demiroğ)**. This car rental backend service designed to demonstrate enterprise application development principles. This projects also demonstrates building scalable and maintainable applications using a clean **N-Tier (Layered Architecture)**, .NET 8, Entity Framework Core, and SOLID principles.
+This project was built according to the main capstone for the **"Software Developer Training Camp" (Engin Demiroğ)** in 2024. This car rental backend service designed to demonstrate enterprise application development principles. This projects also demonstrates building scalable and maintainable applications using a clean **N-Tier (Layered Architecture)**, .NET 8, Entity Framework Core, and SOLID principles.
 
 ## Main Features
 
